@@ -1,3 +1,19 @@
 h1{
-  color: red;
+  /* color: red; */
+}
+
+p{
+  background-color: grey;
+  text-align: center;
+  /* color: white; */
+}
+
+/* selecting multiple elements  */
+
+h1,p{
+  color: brown;
+}
+
+#mainSection{
+  text-align: center;
 }
